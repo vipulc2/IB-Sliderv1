@@ -152,6 +152,7 @@ function add_image_url_link()
 <div>Click Button to save the IB Slider: </div> <input type="submit" name="submit" id="submit" class="button button-primary" value="Save Slider">
 </div>
 
+<h3>Please use [ib_slider] shortcode to add slider.</h3>
 
 </form>
  
